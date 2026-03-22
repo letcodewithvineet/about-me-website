@@ -102,7 +102,7 @@ const KB = {
   contact: {
     phone: "+91-7498367949",
     email: "this.vineetpandey@gmail.com",
-    linkedin: "https://www.linkedin.com/in/vineetpandey",
+    linkedin: "https://www.linkedin.com/in/vineet-kumar-pandey20/",
   },
 };
 
